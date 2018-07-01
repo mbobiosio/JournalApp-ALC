@@ -43,6 +43,7 @@ public class ViewNoteActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.view_note_activity);
         ButterKnife.bind(this);
 
         initUI();

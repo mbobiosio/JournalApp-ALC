@@ -36,4 +36,7 @@
     <string name="start">GOT IT</string>
     <string name="skip">SKIP</string>
     <string name="intro">Welcome</string>
+    <string name="intro_detail">Designed to ease your writing needs with a simple smart solution</string>
+    <string name="intro_slide_two_title">Categorize</string>
+    <string name="intro_detail_slide_two">Create new notes and tag a category</string>
 </resources>
