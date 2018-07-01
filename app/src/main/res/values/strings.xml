@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Journal App</string>
-
+    <string name="welcome">Hello and Welcome</string>
+    <string name="journal_app_information">Journal App is an application for the ALC Challenge. This App will let you write down your thoughts or plans</string>
     <string name="enter_email_hint">Enter your email</string>
     <string name="enter_username_hint">Enter Username</string>
     <string name="storage_permission_denied">Permission Denied!</string>
@@ -29,4 +30,10 @@
     <string name="login_header_image">Login Header Image</string>
     <string name="action_logout">Sign Out</string>
     <string name="action_profile">Profile</string>
+
+    <!--First Launch-->
+    <string name="next">NEXT</string>
+    <string name="start">GOT IT</string>
+    <string name="skip">SKIP</string>
+    <string name="intro">Welcome</string>
 </resources>
