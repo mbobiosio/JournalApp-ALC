@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="note_categories">
+        <item>Education</item>
+        <item>Shopping</item>
+        <item>Religious</item>
+        <item>Motivation</item>
+        <item>Others</item>
+    </array>
+</resources>

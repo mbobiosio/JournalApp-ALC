@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Journal App</string>
+
+    <string name="enter_email_hint">Enter your email</string>
+    <string name="enter_username_hint">Enter Username</string>
+    <string name="storage_permission_denied">Permission Denied!</string>
+    <string name="update_profile_successfully">Profile Update Complete</string>
+    <string name="update_profile_failed">Profile Update Failed</string>
+    <string name="add_username">Please add your username</string>
+    <string name="no_image">No Picture Added</string>
+    <string name="oops_error">Oops, there was an error somewhere.</string>
+    <string name="no_active_internet">No Active Internet Detected</string>
+    <string name="new_journal">Done</string>
+    <string name="new_note_title_hint">Note Title</string>
+    <string name="new_note_title_empty">Add a title</string>
+    <string name="new_note_hint">Enter your notes</string>
+    <string name="edit_note_menu_title">Edit Note</string>
+    <string name="new_note_empty">Add a note</string>
+    <string name="new_note_added_message">New Note Added Successfully</string>
+    <string name="note_edit_successful">Note Edit Successful</string>
+    <string name="note_edit_failed">Note Edit Failed</string>
+    <string name="note_delete_successful_message">Deleted</string>
+    <string name="note_delete_failed_message">Failed</string>
+    <string name="new_note_cancelled">Cancelled</string>
+
+    <string name="progress_message">Hold On....</string>
+    <string name="auth_failed_message">Login Failed. Try again.</string>
+    <string name="auth_success_message">Successful</string>
+    <string name="login_header_image">Login Header Image</string>
+    <string name="action_logout">Sign Out</string>
+    <string name="action_profile">Profile</string>
+</resources>
